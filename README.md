@@ -41,13 +41,13 @@ OPENAI_API_KEY="XXXXXXXXXXXXXXXXXXX"
 streamlit run main.py
 ```
 
-Now,
+Now open,
 ```bash
-openup localhost:
+localhost:8501
 ```
 
 ### Built with:
-	- Streamlit
-	-	OpenAI API
-	-	PyPDF2
-	-	python-dotenv
+- Streamlit
+- OpenAI API
+- PyPDF2
+- python-dotenv
